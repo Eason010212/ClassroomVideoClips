@@ -1,6 +1,7 @@
 # ClassroomVideoClips
 
-Video clips in classroom teaching. Each segment is 30 seconds long and has a category label:
+Video clips in classroom teaching. Each segment is 15 seconds long and has a category label:
+
 <table>
     <tr>
         <td><b>Group</b></td>
@@ -40,6 +41,6 @@ Video clips in classroom teaching. Each segment is 30 seconds long and has a cat
     </tr>
     <tr>
         <td><b>CQ</b></td>
-        <td>Questioning&amp;Answering<br>提问与回答</td>
+        <td>Questioning&Answering<br>提问与回答</td>
     </tr>
 </table>
