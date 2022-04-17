@@ -1,6 +1,6 @@
-# ClassroomVideoClips
+# Classroom Video Clips
 
-Video clips in classroom teaching. Each segment is 15 seconds long and has a category label:
+Video clips in classroom teaching. Each clip is **15 seconds** long and has a category label as follows:
 
 <table>
     <tr>
@@ -44,3 +44,9 @@ Video clips in classroom teaching. Each segment is 15 seconds long and has a cat
         <td>Questioning&Answering<br>提问与回答</td>
     </tr>
 </table>
+
+Clips are stored in /clips. The standard format is :
+
+Filename: CategoryID+index.avi
+
+FileFormat: avi, 800×450, 25fps, 512kbps(video)+128kbps(audio), 15sec, ≈1.5MB/file
