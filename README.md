@@ -35,7 +35,7 @@ Video clips in classroom teaching. Each clip is **15 seconds** long and has a ca
         <td>Writing<br>书面练习</td>
     </tr>
     <tr>
-        <td rowspan="2">Communicating<br>交际活动</td>
+        <td rowspan="3">Communicating<br>交际活动</td>
         <td><b>CG</b></td>
         <td>Groupworking<br>协作讨论</td>
     </tr>
@@ -43,10 +43,14 @@ Video clips in classroom teaching. Each clip is **15 seconds** long and has a ca
         <td><b>CQ</b></td>
         <td>Questioning&Answering<br>提问与回答</td>
     </tr>
+    <tr>
+        <td><b>CI</b></td>
+        <td>Complex Interacting<br>情景互动</td>
+    </tr>
 </table>
 
 Clips are stored in /clips. The standard format is :
 
 Filename: CategoryID+index.avi
 
-FileFormat: avi, 800×450, 25fps, 512kbps(video)+128kbps(audio), 15sec, ≈1.5MB/file
+FileFormat: avi, 1920×1080, 25fps, 3496kbps(video)+132kbps(audio), 15sec, ≈6.8MB/file
